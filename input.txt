@@ -1,0 +1,2 @@
+$Hello_ $thisIstoTest= ++@ABC-- + $A --\"myLexicalAnalyzer 3.14 '4'%world
+Give Me Cookies $CookieShop
